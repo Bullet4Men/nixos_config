@@ -13,6 +13,7 @@
     neovim
     lunarvim
     libsForQt5.kate
+    jetbrains.pycharm-community-src
 
     # Web Browsing
     librewolf
@@ -85,7 +86,7 @@
     openjdk
 
     # File Management and Navigation
-    ranger
+    yazi
     thefuck
     fzf
     
@@ -115,9 +116,6 @@
 
     # Crypto Wallets
     monero-gui
-
-    # Chatting
-    element-desktop
 
     # Multimedia
     vlc
